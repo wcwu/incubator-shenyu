@@ -102,7 +102,7 @@
         <prometheus-jmx.version>0.15.0</prometheus-jmx.version>
         <swagger.version>2.9.2</swagger.version>
         <sofa.rpc.version>5.7.6</sofa.rpc.version>
-        <tars.version>1.7.2</tars.version>
+        <tars.version>1.7.3</tars.version>
         <skipTests>false</skipTests>
         <undertow.version>2.2.2.Final</undertow.version>
         <curator-test.version>4.0.1</curator-test.version>
