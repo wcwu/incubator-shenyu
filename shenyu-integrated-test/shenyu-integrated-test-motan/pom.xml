@@ -57,7 +57,7 @@
         <dependency>
             <groupId>com.weibo</groupId>
             <artifactId>motan-springsupport</artifactId>
-            <version>1.1.9</version>
+            <version>1.2.2</version>
         </dependency>
         <!-- apache shenyu motan plugin end-->
 
