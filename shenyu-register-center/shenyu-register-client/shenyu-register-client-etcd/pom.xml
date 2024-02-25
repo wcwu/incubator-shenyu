@@ -50,7 +50,7 @@
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-core</artifactId>
-            <version>1.28.0</version>
+            <version>1.61.1</version>
         </dependency>
         <dependency>
             <artifactId>grpc-protobuf</artifactId>
