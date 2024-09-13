@@ -30,7 +30,7 @@
         <dependency>
             <groupId>io.etcd</groupId>
             <artifactId>jetcd-core</artifactId>
-            <version>0.5.0</version>
+            <version>0.8.3</version>
             <exclusions>
                 <exclusion>
                     <artifactId>grpc-protobuf</artifactId>
@@ -50,17 +50,17 @@
         <dependency>
             <groupId>io.grpc</groupId>
             <artifactId>grpc-core</artifactId>
-            <version>1.28.0</version>
+            <version>1.66.0</version>
         </dependency>
         <dependency>
             <artifactId>grpc-protobuf</artifactId>
             <groupId>io.grpc</groupId>
-            <version>1.28.0</version>
+            <version>1.66.0</version>
         </dependency>
         <dependency>
             <artifactId>grpc-stub</artifactId>
             <groupId>io.grpc</groupId>
-            <version>1.28.0</version>
+            <version>1.66.0</version>
         </dependency>
 
         <dependency>
