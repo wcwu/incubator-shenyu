@@ -30,7 +30,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <websocket.version>1.5.1</websocket.version>
+        <websocket.version>1.5.7</websocket.version>
     </properties>
 
     <dependencies>
