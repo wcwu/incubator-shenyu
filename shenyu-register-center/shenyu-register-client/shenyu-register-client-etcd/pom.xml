@@ -55,7 +55,7 @@
         <dependency>
             <artifactId>grpc-protobuf</artifactId>
             <groupId>io.grpc</groupId>
-            <version>1.28.0</version>
+            <version>1.66.0</version>
         </dependency>
         <dependency>
             <artifactId>grpc-stub</artifactId>
